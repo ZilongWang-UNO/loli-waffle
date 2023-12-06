@@ -131,5 +131,6 @@
         items: 1
     });
     
+    // hide all rights for now since author won't let us delete it
+    $('.rightsDiv').css('display', 'none');
 })(jQuery);
-
