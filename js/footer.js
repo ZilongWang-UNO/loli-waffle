@@ -9,20 +9,20 @@ var footer = `
                     </a>
                 </div>
                 <div class="col-12 mb-4">
-                    <a class="btn btn-outline-secondary btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-outline-secondary btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-outline-secondary btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-outline-secondary btn-social mr-2" target="_blank" href="https://www.tiktok.com/@loliwaffleofficial"><i class="fab fa-tiktok"></i></a>
                     <a class="btn btn-outline-secondary btn-social" target="_blank" href="https://www.instagram.com/loliwaffle_official/"><i class="fab fa-instagram"></i></a>
                 </div>
                 <div class="col-12 mt-2 mb-4">
                     <div class="row">
                         <div class="col-sm-6 text-center text-sm-right border-right mb-3 mb-sm-0">
                             <h5 class="font-weight-bold mb-2">Location</h5>
-                            <p class="mb-2">188 Bellevue Sq, Bellevue, WA 98004</p>
-                            <p class="mb-0">+012 345 67890</p>
+                            <p class="mb-2">400 Bellevue Square Ste 188,</p>
+                            <P>Bellevue, WA 98004</p>
+                            <p class="mb-0">(206) 771-4055</p>
                         </div>
                         <div class="col-sm-6 text-center text-sm-left">
                             <h5 class="font-weight-bold mb-2">Open Hours</h5>
+                            <br>
                             <p class="mb-2">Mon – Sun: 10AM – 7PM</p>
                             <!-- <p class="mb-0">Sunday: Closed</p> -->
                         </div>

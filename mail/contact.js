@@ -15,7 +15,7 @@ $(function () {
             $this.prop("disabled", true);
 
             $.ajax({
-                url: "contact.php",
+                url: "http://127.0.0.1:10086/sendEmail",
                 type: "POST",
                 data: {
                     name: name,
@@ -23,7 +23,6 @@ $(function () {
                     subject: subject,
                     message: message
                 },
-                cache: false,
                 success: function () {
                     $('#success').html("<div class='alert alert-success'>");
                     $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")

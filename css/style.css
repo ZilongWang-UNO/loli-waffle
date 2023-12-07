@@ -152,13 +152,13 @@ sup {
 }
 
 a {
-  color: #F195B2;
+  color: white;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #e85181;
+  color: yellow;
   text-decoration: underline;
 }
 
@@ -4016,7 +4016,6 @@ input[type="button"].btn-block {
 }
 
 .nav-link {
-  display: block;
   padding: 0.5rem 1rem;
 }
 
@@ -10151,4 +10150,30 @@ h6,
   width: 35%;
   line-height: 35px;
   margin-bottom: 35px;
+}
+
+.headerNavBar {
+  background-color: #F195B2;
+  width: 100%;
+  height: 120px;
+  position: relative;
+  z-index: 999999;
+}
+
+.headerNavDiv {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height: 20px;
+  width: 900px;
+  font-size: 20px;
+}
+
+.headerNavIcons {
+  float: right;
+  /* position: relative;
+  bottom: 20px; */
 }
