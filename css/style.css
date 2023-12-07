@@ -10144,3 +10144,11 @@ h6,
     border-right: none !important;
   }
 }
+
+.franchisingContent {
+  font-size: 20px;
+  margin: 0 auto;
+  width: 35%;
+  line-height: 35px;
+  margin-bottom: 35px;
+}
