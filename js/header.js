@@ -1,26 +1,36 @@
 var header = `
-<div class="headerNavBar">
-    <div class="container headerNavDiv">
-        <!-- Navbar Start -->
-        <div class="headerNavBtns">
-            <a href="index.html" class="nav-item nav-link">Home</a>
-            <a href="about.html" class="nav-item nav-link">About</a>
-            <a href="menu.html" class="nav-item nav-link">Menu</a>
-            <a href="hiring.html" class="nav-item nav-link">Hiring</a>
-            <a href="franchising.html" class="nav-item nav-link">Franchising</a>
-            <a href="contact.html" class="nav-item nav-link">Contact</a>
-            <!-- icons -->
-            <div class="headerNavIcons">
-                <a class="text-white px-3" target="_blank" href="https://www.tiktok.com/@loliwaffleofficial">
+    <div class="headerNavBarDiv">
+        <ul class="headerNavBar nav justify-content-center">
+            <li class="nav-item">
+                <a href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+                <a href="about.html">About</a>
+            </li>
+            <li class="nav-item">
+                <a href="menu.html">Menu</a>
+            </li>
+            <li class="nav-item">
+                <a href="hiring.html">Hiring</a>
+            </li>
+            <li class="nav-item">
+                <a href="franchising.html">Franchising</a>
+            </li>
+            <li class="nav-item">
+                <a href="contact.html">Contact</a>
+            </li>
+            <li class="nav-item">
+                <a class="px-3" target="_blank" href="https://www.tiktok.com/@loliwaffleofficial">
                     <i class="fab fa-tiktok"></i>
                 </a>
-                <a class="text-white px-3" href="https://www.instagram.com/loliwaffle_official/" target="_blank">
+            </li>
+            <li class="nav-item">
+                <a target="_blank" href="https://www.instagram.com/loliwaffle_official/">
                     <i class="fab fa-instagram"></i>
                 </a>
-            </div>
-        </div>
+            </li>       
+        </ul>
     </div>
-</div>
 `;
 
 $('body').prepend(header);
