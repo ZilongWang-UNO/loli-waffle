@@ -2,6 +2,9 @@ var header = `
     <div class="headerNavBarDiv">
         <ul class="headerNavBar nav justify-content-center">
             <li class="nav-item">
+                <img class="logo" src="./img/clear_logo.png">
+            </li>
+            <li class="nav-item">
                 <a href="index.html">Home</a>
             </li>
             <li class="nav-item">
