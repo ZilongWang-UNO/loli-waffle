@@ -10147,7 +10147,8 @@ h6,
 .franchisingContent {
   font-size: 20px;
   margin: 0 auto;
-  width: 35%;
+  width: 60%;
+  max-width: 800px;
   line-height: 35px;
   margin-bottom: 35px;
 }
