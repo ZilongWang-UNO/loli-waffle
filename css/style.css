@@ -10168,3 +10168,7 @@ h6,
   margin: auto 0;
   padding: 0.5rem;
 }
+
+.headerNavBar a:hover, .headerNavBar a:focus {
+  text-decoration: none;
+}
