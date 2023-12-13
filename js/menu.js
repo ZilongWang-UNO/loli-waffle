@@ -5,10 +5,10 @@ var items = [
     {name: 'Original', img: './img/original.jpg'},
     {name: 'Chocolate Truffle', img: './img/chocolate_truffle.jpg'},
     {name: 'Ube', img: './img/ube.jpg'},
-    {name: 'Taro', img: './img/taro.jpg'},
+    // {name: 'Taro', img: './img/taro.jpg'},
     {name: 'Cookie Cream', img: './img/cookie_cream.jpg'},
     {name: 'Black Sesame', img: './img/black_sesame.jpg'},
-    {name: 'Lavender', img: './img/lavender.jpg'},
+    // {name: 'Lavender', img: './img/lavender.jpg'},
     {name: 'Salty Caramel Macchiato', img: './img/salty_caramel_macchiato.jpg'},
 ];
 

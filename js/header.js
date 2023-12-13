@@ -22,8 +22,8 @@ var header = `
             <li class="nav-item">
                 <a href="contact.html">Contact</a>
             </li>
-            <li class="nav-item">
-                <a class="px-3" target="_blank" href="https://www.tiktok.com/@loliwaffleofficial">
+            <!--<li class="nav-item">
+                <a target="_blank" href="https://www.tiktok.com/@loliwaffleofficial">
                     <i class="fab fa-tiktok"></i>
                 </a>
             </li>
@@ -31,7 +31,8 @@ var header = `
                 <a target="_blank" href="https://www.instagram.com/loliwaffle_official/">
                     <i class="fab fa-instagram"></i>
                 </a>
-            </li>       
+            </li>    
+            -->   
         </ul>
     </div>
 `;
