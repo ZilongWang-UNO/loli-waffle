@@ -529,6 +529,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  max-height: 550px;
 }
 
 .img-thumbnail {
@@ -10007,17 +10008,6 @@ h6,
   background: #F195B2 !important;
 }
 
-.portfolio-item::after {
-  position: absolute;
-  content: "";
-  top: 30px;
-  right: 30px;
-  bottom: 30px;
-  left: 30px;
-  border: 2px solid #FFFFFF;
-  z-index: 1;
-}
-
 .portfolio-item .portfolio-btn {
   position: absolute;
   width: 0;
@@ -10027,7 +10017,7 @@ h6,
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #FFFFFF;
+  /* background: #FFFFFF; */
   text-decoration: none;
   opacity: 0;
   transition: .5s;

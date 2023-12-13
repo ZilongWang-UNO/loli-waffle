@@ -23,8 +23,8 @@ var footer = `
                         <div class="col-sm-6 text-center text-sm-left">
                             <h5 class="font-weight-bold mb-2">Open Hours</h5>
                             <br>
-                            <p class="mb-2">Mon – Sun: 10AM – 7PM</p>
-                            <!-- <p class="mb-0">Sunday: Closed</p> -->
+                            <p class="mb-2">Mon – Sat: 10AM – 9PM</p>
+                            <p class="mb-2">Sun: 11AM – 7PM</p>
                         </div>
                     </div>
                 </div>
