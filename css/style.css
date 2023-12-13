@@ -10182,7 +10182,7 @@ h6,
 
 .home_background {
   position: relative;
-  background: url('/img/home.jpg');
+  background: url('../img/home.jpg');
   width: 100%;
   height: min(100vh, 100vw);
   background-attachment: fixed;
